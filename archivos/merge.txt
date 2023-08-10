@@ -1,1 +1,5 @@
+
 Angell Efrain Pimienta, 18, aspiro llegar aprender mucho de las distintas metodologias que nos brinda java para el ambiente laboral y solucion de problemas
+
+git reconocio los cambios gracias a que la carpeta no se encuentra vacia
+
